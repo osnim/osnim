@@ -1,4 +1,4 @@
-- 👋 Hi, I’m osnim
+- 👋 Hi, I’m minso
 - 👀 I’m interested in coding test, android, etc...
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Industry-Academy-Collaboraiton-Capstone-Design

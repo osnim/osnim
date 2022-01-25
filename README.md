@@ -1,8 +1,8 @@
 - 👋 Hi, I’m minso
-- 👀 I’m interested in coding test, android, etc...
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web programming, Android, etc...
+- 🌱 I’m currently learning python, Node.js, Express, 
 - 💞️ I’m looking to collaborate on Industry-Academy-Collaboraiton-Capstone-Design
-- 📫 How to reach me Here (My Github)
+- 📫 How to reach me: Send e-mail to osnim0320@gmail.com
 
 <!---
 osnim/osnim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

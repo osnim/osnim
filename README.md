@@ -1,7 +1,7 @@
 - 👋 Hi, I’m minso
 - 👀 I’m interested in Web programming, Android, etc...
-- 🌱 I’m currently learning python, Node.js, Express, 
-- 💞️ I’m looking to collaborate on Industry-Academy-Collaboraiton-Capstone-Design
+- 🌱 I’m currently learning Python, Node.js, React.js, Android  
+- 💞️ I’m studying to pass Software Maestro
 - 📫 How to reach me: send e-mail to osnim0320@gmail.com
 
 <!---

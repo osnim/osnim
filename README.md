@@ -1,8 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=👋Minso%20Kim👋&fontSize=80)
-
-
-
-<h1 align="center">🛠 Tech Stack 🛠</h1>
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=footer&text=🛠TechStack🛠&fontSize=50&animation=twinkling)
 
 <h3 align="center"> 🌱 Front-end 🌱</h3> 
 <p align="center">
@@ -51,4 +47,4 @@
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=white"/></a> &nbsp 
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)

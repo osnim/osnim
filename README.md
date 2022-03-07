@@ -48,5 +48,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osnim)](https://solved.ac/osnim/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osnim&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
-

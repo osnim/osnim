@@ -41,8 +41,9 @@
 
 <h4 align="center">•••</h4>
 <p align="center">
-  <a href="https://osnim.github.io//"><img src="https://img.shields.io/badge/Git%20Blog-262626?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://newwisdom.tistory.com"/></a>
-  <a href="mailto:osnim0320@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
+   <a href="https://osnim.tistory.com//"><img src="https://img.shields.io/badge/Tstory%20-000000?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://osnim.tistory.com"/></a>
+  <a href="https://osnim.github.io//"><img src="https://img.shields.io/badge/Git%20Blog-222222?style=flat-square&logo=GitHub-Pages&logoColor=white"/></a>
+  <a href="mailto:osnim0320@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osnim0320@gmail.com"/></a>
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=white"/></a> &nbsp 
 </p>
 

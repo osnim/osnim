@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> &nbsp 
 </p>
 
-<h4 align="center">  👀 Algorithm 👀 </h4> 
+<h4 align="center">  👀Algorithm👀 </h4> 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 

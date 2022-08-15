@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp    </p> 
 
 
-<h4 align="center">•••</h4>
+<h4 align="center">etc</h4>
 <p align="center">
    <a href="https://osnim.tistory.com//"><img src="https://img.shields.io/badge/Tstory%20-000000?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://osnim.tistory.com"/></a>
   <a href="https://osnim.github.io//"><img src="https://img.shields.io/badge/Git%20Blog-222222?style=flat-square&logo=GitHub-Pages&logoColor=white"/></a>

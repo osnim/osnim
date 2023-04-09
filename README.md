@@ -20,19 +20,6 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a> &nbsp 
    
-</p>
-<h4 align="center"> 💞️ IDE 💞️ </h4> 
-<p align="center">
-</a> &nbsp
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a> &nbsp
-</br> 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a> &nbsp 
-</p>
-
 <h4 align="center">etc</h4>
 <p align="center">
    <a href="https://osnim.tistory.com//"><img src="https://img.shields.io/badge/Tstory%20-000000?style=flat-square&logo=D-Wave Systems&logoColor=white&link=https://osnim.tistory.com"/></a>
